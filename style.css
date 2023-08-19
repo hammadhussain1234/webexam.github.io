@@ -1,0 +1,175 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg{
+    background-image: url(image/task6_cleanup.PNG);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+.take h1{
+    color: whitesmoke;
+    font-size: 7vmin;
+    font-weight: bold;
+}
+.take p {
+    font-size: 2vmin;
+    color: whitesmoke;
+    font-weight: bold;
+}
+.take li{
+    font-size: 2vmin;
+    color: whitesmoke;
+    font-weight: bold;
+}
+.bg1{
+    background-image: url(image/task5_cleanup-removebg-preview.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 300px;
+    padding-bottom: 300px;  
+}
+.head{
+    text-align: center;
+    padding-top: 10%;
+}
+.head h1{
+   font-size: 8vmin;
+   font-weight: bold;
+}
+.head p{
+   font-size: 3vmin;
+   font-weight: bold;
+}
+.body{
+    box-shadow: 0 20px 20px rgba(0,0,0,0.1);
+    border-radius: 30px;
+}
+.head2{
+    font-size: 8vmin;
+    font-weight: bold;
+    color: black;
+}
+.head3{
+    font-size: 2vmin;
+    font-weight: bold;
+    color: black;
+}
+.bg3{
+    width: 100%;
+    background-image: url(image/task12_cleanup.PNG);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+.head5 h1{
+    font-size: 7vmin;
+    font-weight: bold;
+}
+.head5 p{
+    font-size: 3vmin;
+    font-weight: bold;
+}
+.head6 p{
+    font-size: 2vmin;
+    font-weight: bold;
+}
+.bg5{
+    width: 100%;
+    height: 100vh;
+    background-image: url(image/task17_cleanup.PNG);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.work h1{
+  font-size: 7vmin;
+  font-weight: bold;
+}
+.work p{
+  font-size: 2vmin;
+  font-weight: bold;
+}
+.work2{
+    width: 100%;
+    padding-top: 60%;
+    padding-left: 30%;
+}
+.work3{
+    width: 100%;
+    padding-top: 20%;
+}
+.work4{
+    width: 100%;
+    padding-left: 40%;
+}
+.bg7{
+    background-image: url(image/task_cleanup.PNG);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-start-start-radius   : 30px;
+ 
+}
+
+.bg8{
+    width: 100%;
+    height: 100vh;
+    background-image: url(image/task20_cleanup.PNG);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.answer p{
+   font-size: 3vmin;
+   font-weight: bold;
+}
+.answer h1{
+   font-size: 7vmin;
+   font-weight: bold;
+}
+.answer{
+  padding-top: 10%;
+}
+.answer2 p{
+    box-shadow: 0 10px 10px rgba(0,0,0,0.1);
+    border-radius: 10px;
+    margin: 5px;
+}
+.bg9{
+    background-image: url(image/task21_cleanup-removebg-preview.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+.answer3 h1{
+ font-size: 7vmin;
+ font-weight: bold;
+}
+.answer3 p{
+ font-size: 2vmin;
+ font-weight: bold;
+}
+.bg10{
+    width: 100%;
+    height: 100vh;
+    background-image: url(image/task22_cleanup.PNG);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.form h3{
+  font-weight: bold;
+  font-size: 7vmin ;
+  color: orange;
+}
